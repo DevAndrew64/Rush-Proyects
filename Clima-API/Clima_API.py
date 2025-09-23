@@ -3,6 +3,14 @@ import os
 import requests
 from dotenv import load_dotenv
 
+""""
+Autor: Jhon Ponton
+Inspiracion: Codigo Espinoza
+Proyecto numero 2 de 50
+
+Este programa te muestra cual es el clima en la ciudad que se le de como recurso.
+"""
+
 # Obtenernos variable privada en archivo de entorno (Donde está la API)
 load_dotenv()
 
